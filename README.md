@@ -14,7 +14,7 @@ Bab ini berisi pengenalan mengenai Eclipse
 Bab ini berisi tutorial cara mendeploy smart contract ke Eclipse testnet
 
 ## Requirement
-- Gitpod
+- [Gitpod](https://www.notion.so/luthfi0x/a0d4305fcce84d0da856f3d58765eaf1?v=288fd59d31ae4295ac44a566bf971649&p=a82c45e276ea436986959e83d26b32f8&pm=c)
 - 0.1 Sepolia ETH
   
 ## Dependencies
