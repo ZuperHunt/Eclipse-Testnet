@@ -3,14 +3,14 @@ Penulis: [luthfi0x](https://www.twitter.com/luthfi0x)
 # Pengenalan
 Bab ini berisi pengenalan mengenai Eclipse
 
-## Nama_Project
+## Eclipse
 > [!NOTE]
 > Eclipse adalah sebuah ETH L2 yang menggunakan Solana sebagai execution layer dan Ethereum sebagai settlement layer
 
 ### Investor
 ![image](https://github.com/ZuperHunt/Eclipse-Testnet/assets/33769324/173b8277-91c0-43d9-ba8b-cf9a0622a0b3)
 
-# Tutorial XXX
+# Tutorial Deploy Smart Contract
 Bab ini berisi tutorial cara mendeploy smart contract ke Eclipse testnet
 
 ## Requirement
